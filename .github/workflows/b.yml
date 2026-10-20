@@ -47,8 +47,7 @@ jobs:
           elif [ -f "package.json" ] && [ -f "index.html" ]; then
             echo "dir=." >> "$GITHUB_OUTPUT"
           else
-            echo "ERROR: Project not found."
-            echo "Expected package.json and index.html in the repository root or Jee OS/."
+            echo "::error::Project not found. Expected package.json and index.html in the repository root or Jee OS/."
             exit 1
           fi
 
@@ -63,34 +62,16 @@ jobs:
           distribution: temurin
           java-version: '21'
 
-      - name: Configure Android SDK
-        shell: bash
-        run: |
-          set -euo pipefail
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
 
-          SDK="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
-
-          if [ ! -d "$SDK" ]; then
-            echo "ERROR: Android SDK directory not found: $SDK"
-            exit 1
-          fi
-
-          echo "ANDROID_HOME=$SDK" >> "$GITHUB_ENV"
-          echo "ANDROID_SDK_ROOT=$SDK" >> "$GITHUB_ENV"
-
-          echo "$SDK/platform-tools" >> "$GITHUB_PATH"
-          echo "$SDK/cmdline-tools/latest/bin" >> "$GITHUB_PATH"
-
-          echo "Android SDK: $SDK"
-          ls -la "$SDK/cmdline-tools" || true
-
-      - name: Locate SDK manager
+      - name: Locate Android SDK manager
         id: sdk
         shell: bash
         run: |
           set -euo pipefail
 
-          SDK="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+          SDK="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-/usr/local/lib/android/sdk}}"
           MANAGER="$SDK/cmdline-tools/latest/bin/sdkmanager"
 
           if [ ! -x "$MANAGER" ]; then
@@ -100,14 +81,12 @@ jobs:
           fi
 
           if [ -z "$MANAGER" ] || [ ! -x "$MANAGER" ]; then
-            echo "ERROR: sdkmanager executable not found."
-            find "$SDK/cmdline-tools" -maxdepth 4 -type f \
-              2>/dev/null | head -n 40 || true
+            echo "::error::Android sdkmanager was not found."
             exit 1
           fi
 
           echo "manager=$MANAGER" >> "$GITHUB_OUTPUT"
-          echo "Found SDK manager: $MANAGER"
+          echo "Android SDK manager found."
 
       - name: Accept Android SDK licenses
         shell: bash
@@ -115,10 +94,20 @@ jobs:
           SDKMANAGER: ${{ steps.sdk.outputs.manager }}
         run: |
           set -euo pipefail
-          yes | "$SDKMANAGER" --licenses || {
-            echo "ERROR: Could not accept Android SDK licenses."
-            exit 1
-          }
+
+          # sdkmanager can finish successfully before yes exits.
+          # Ignore the producer's expected broken pipe, not sdkmanager's status.
+          set +o pipefail
+          yes | "$SDKMANAGER" --licenses
+          RESULT=$?
+          set -o pipefail
+
+          if [ "$RESULT" -ne 0 ]; then
+            echo "::error::Android SDK license acceptance failed."
+            exit "$RESULT"
+          fi
+
+          echo "Android SDK licenses accepted."
 
       - name: Install Android SDK packages
         shell: bash
@@ -144,7 +133,7 @@ jobs:
             npm install --no-audit --no-fund
           fi
 
-      - name: Validate project
+      - name: Validate project files
         working-directory: ${{ steps.project.outputs.dir }}
         shell: bash
         run: |
@@ -183,8 +172,6 @@ jobs:
             fi
           done
 
-          echo "Web assets prepared."
-
       - name: Configure Capacitor
         working-directory: ${{ steps.project.outputs.dir }}
         shell: bash
@@ -201,11 +188,9 @@ jobs:
             config = JSON.parse(fs.readFileSync(file, 'utf8'));
           }
 
-          config.appId = config.appId || 'com.saransh.jeeos';
-          config.appName = config.appName || 'Jee OS';
+          config.appId ||= 'com.saransh.jeeos';
+          config.appName ||= 'Jee OS';
           config.webDir = 'www';
-
-          delete config.server;
 
           fs.writeFileSync(
             file,
@@ -240,6 +225,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           test -f gradlew
           chmod +x gradlew
 
@@ -259,7 +245,7 @@ jobs:
           APK="android/app/build/outputs/apk/debug/app-debug.apk"
 
           if [ ! -s "$APK" ]; then
-            echo "ERROR: APK was not generated."
+            echo "::error::APK was not generated."
             exit 1
           fi
 
