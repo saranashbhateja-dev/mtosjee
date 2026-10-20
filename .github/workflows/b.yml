@@ -13,6 +13,7 @@ on:
       - 'index.html'
       - 'tracker.json'
       - 'playlist-durations.json'
+      - 'curriculum.json'
       - 'package.json'
       - 'package-lock.json'
       - 'capacitor.config.json'
@@ -29,7 +30,7 @@ jobs:
   build:
     name: Build Android Debug APK
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 35
 
     steps:
       - name: Checkout repository
@@ -39,56 +40,129 @@ jobs:
         id: project
         shell: bash
         run: |
-          if [ -f "Jee OS/package.json" ]; then
+          set -euo pipefail
+
+          if [ -f "Jee OS/package.json" ] && [ -f "Jee OS/index.html" ]; then
             echo "dir=Jee OS" >> "$GITHUB_OUTPUT"
           elif [ -f "package.json" ] && [ -f "index.html" ]; then
             echo "dir=." >> "$GITHUB_OUTPUT"
           else
-            echo "ERROR: Project or package.json not found."
+            echo "ERROR: Project not found."
+            echo "Expected package.json and index.html in the repository root or Jee OS/."
             exit 1
           fi
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: '22'
 
-      - name: Setup Java
+      - name: Setup Java 21
         uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '21'
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Configure Android SDK
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          SDK="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+
+          if [ ! -d "$SDK" ]; then
+            echo "ERROR: Android SDK directory not found: $SDK"
+            exit 1
+          fi
+
+          echo "ANDROID_HOME=$SDK" >> "$GITHUB_ENV"
+          echo "ANDROID_SDK_ROOT=$SDK" >> "$GITHUB_ENV"
+
+          echo "$SDK/platform-tools" >> "$GITHUB_PATH"
+          echo "$SDK/cmdline-tools/latest/bin" >> "$GITHUB_PATH"
+
+          echo "Android SDK: $SDK"
+          ls -la "$SDK/cmdline-tools" || true
+
+      - name: Locate SDK manager
+        id: sdk
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          SDK="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+          MANAGER="$SDK/cmdline-tools/latest/bin/sdkmanager"
+
+          if [ ! -x "$MANAGER" ]; then
+            MANAGER="$(find "$SDK/cmdline-tools" \
+              -type f -name sdkmanager -perm /111 \
+              2>/dev/null | head -n 1 || true)"
+          fi
+
+          if [ -z "$MANAGER" ] || [ ! -x "$MANAGER" ]; then
+            echo "ERROR: sdkmanager executable not found."
+            find "$SDK/cmdline-tools" -maxdepth 4 -type f \
+              2>/dev/null | head -n 40 || true
+            exit 1
+          fi
+
+          echo "manager=$MANAGER" >> "$GITHUB_OUTPUT"
+          echo "Found SDK manager: $MANAGER"
+
+      - name: Accept Android SDK licenses
+        shell: bash
+        env:
+          SDKMANAGER: ${{ steps.sdk.outputs.manager }}
+        run: |
+          set -euo pipefail
+          yes | "$SDKMANAGER" --licenses || {
+            echo "ERROR: Could not accept Android SDK licenses."
+            exit 1
+          }
 
       - name: Install Android SDK packages
+        shell: bash
+        env:
+          SDKMANAGER: ${{ steps.sdk.outputs.manager }}
         run: |
-          sdkmanager "platform-tools" \
+          set -euo pipefail
+
+          "$SDKMANAGER" \
+            "platform-tools" \
             "platforms;android-36" \
             "build-tools;36.0.0"
 
-      - name: Install dependencies
+      - name: Install Node dependencies
         working-directory: ${{ steps.project.outputs.dir }}
+        shell: bash
         run: |
+          set -euo pipefail
+
           if [ -f package-lock.json ]; then
             npm ci --no-audit --no-fund
           else
             npm install --no-audit --no-fund
           fi
 
-      - name: Validate project files
+      - name: Validate project
         working-directory: ${{ steps.project.outputs.dir }}
         shell: bash
         run: |
           set -euo pipefail
+
           test -f index.html
           test -f app.js
+          test -f package.json
+
           node --check app.js
 
-          if [ -f tracker.json ]; then
-            node -e "JSON.parse(require('fs').readFileSync('tracker.json','utf8'))"
-          fi
+          for f in tracker.json playlist-durations.json curriculum.json; do
+            if [ -f "$f" ]; then
+              node -e \
+                "JSON.parse(require('fs').readFileSync(process.argv[1], 'utf8'))" \
+                "$f"
+            fi
+          done
 
           echo "Project validation passed."
 
@@ -97,6 +171,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           rm -rf www
           mkdir -p www
 
@@ -108,10 +183,14 @@ jobs:
             fi
           done
 
+          echo "Web assets prepared."
+
       - name: Configure Capacitor
         working-directory: ${{ steps.project.outputs.dir }}
         shell: bash
         run: |
+          set -euo pipefail
+
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
 
@@ -122,9 +201,11 @@ jobs:
             config = JSON.parse(fs.readFileSync(file, 'utf8'));
           }
 
-          config.appId ||= 'com.saransh.jeeos';
-          config.appName ||= 'Jee OS';
+          config.appId = config.appId || 'com.saransh.jeeos';
+          config.appName = config.appName || 'Jee OS';
           config.webDir = 'www';
+
+          delete config.server;
 
           fs.writeFileSync(
             file,
@@ -132,14 +213,20 @@ jobs:
           );
           NODE
 
-      - name: Verify Capacitor
+      - name: Verify Capacitor dependencies
         working-directory: ${{ steps.project.outputs.dir }}
+        shell: bash
         run: |
+          set -euo pipefail
+
           npm ls @capacitor/core @capacitor/cli @capacitor/android
 
-      - name: Create Android platform
+      - name: Create Android platform if missing
         working-directory: ${{ steps.project.outputs.dir }}
+        shell: bash
         run: |
+          set -euo pipefail
+
           if [ ! -d android ]; then
             npx cap add android
           fi
@@ -148,19 +235,38 @@ jobs:
         working-directory: ${{ steps.project.outputs.dir }}
         run: npx cap sync android
 
-      - name: Build APK
+      - name: Verify Gradle wrapper
+        working-directory: ${{ steps.project.outputs.dir }}/android
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f gradlew
+          chmod +x gradlew
+
+      - name: Build debug APK
         working-directory: ${{ steps.project.outputs.dir }}/android
         run: |
-          chmod +x gradlew
-          ./gradlew assembleDebug --no-daemon --stacktrace
+          ./gradlew assembleDebug \
+            --no-daemon \
+            --stacktrace
 
       - name: Verify APK
         working-directory: ${{ steps.project.outputs.dir }}
+        shell: bash
         run: |
-          test -s android/app/build/outputs/apk/debug/app-debug.apk
-          echo "APK successfully generated."
+          set -euo pipefail
 
-      - name: Upload APK
+          APK="android/app/build/outputs/apk/debug/app-debug.apk"
+
+          if [ ! -s "$APK" ]; then
+            echo "ERROR: APK was not generated."
+            exit 1
+          fi
+
+          ls -lh "$APK"
+          echo "APK verification passed."
+
+      - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: Jee-OS-debug-APK
