@@ -1,0 +1,14 @@
+Jee OS 2.1.2 — Restore APK Watch buttons
+
+Fixed:
+- The Android build workflow no longer strips Watch buttons from planner/today rows.
+- The Android build workflow no longer strips Watch buttons from individual lecture rows.
+- Watch buttons open each chapter's playlist URL from tracker.json.
+
+Preserved:
+- APK chapter-link editing and bulk link management remain removed.
+- The desktop app source is unchanged by the APK-only link UI patch.
+- Duration merge fix and 1.5x scheduling remain intact.
+
+Build note:
+- This is the corrected source ZIP/workflow. A new APK must be built by running the GitHub Actions workflow.

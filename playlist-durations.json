@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-09T20:36:24.269Z",
+  "playlists": {
+    "PLP01": {
+      "playlistId": "PL_A4M5IAkMaev6ovGTwhfLLidWzCveoHZ",
+      "avgSeconds": 1291,
+      "totalSeconds": 45196,
+      "fetchedCount": 35,
+      "listedVideoCount": 35,
+      "fetchedAt": "2026-10-09T20:36:25.227Z"
+    },
+    "PLP02": {
+      "playlistId": "PL_A4M5IAkMafDl40Jkm0VGDKm6j4xgClj",
+      "avgSeconds": 5270,
+      "totalSeconds": 26352,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:36:25.714Z"
+    },
+    "PLP03": {
+      "playlistId": "PL_A4M5IAkMadyoou3Fl2jR0pG3X1Wi6xA",
+      "avgSeconds": 3354,
+      "totalSeconds": 33539,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:26.202Z"
+    },
+    "PLP04": {
+      "playlistId": "PL_A4M5IAkMadzVrsTcZqRkeZ6SOko8pMd",
+      "avgSeconds": 4016,
+      "totalSeconds": 32130,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:36:26.710Z"
+    },
+    "PLP05": {
+      "playlistId": "PL_A4M5IAkMac_AeDfj1l85vp_93Dk_Agt",
+      "avgSeconds": 2771,
+      "totalSeconds": 24943,
+      "fetchedCount": 9,
+      "listedVideoCount": 9,
+      "fetchedAt": "2026-10-09T20:36:27.198Z"
+    },
+    "PLP06": {
+      "playlistId": "PL_A4M5IAkMadXu_0_nqUQAANlsPNxCM42",
+      "avgSeconds": 4396,
+      "totalSeconds": 48357,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:27.711Z"
+    },
+    "PLP07": {
+      "playlistId": "PL_A4M5IAkMafEN4paY3nfD2U3GsXSu_6F",
+      "avgSeconds": 3832,
+      "totalSeconds": 22989,
+      "fetchedCount": 6,
+      "listedVideoCount": 6,
+      "fetchedAt": "2026-10-09T20:36:28.187Z"
+    },
+    "PLP08": {
+      "playlistId": "PL_A4M5IAkMaeMjUB_3Z26hU58Gsbwm4Ji",
+      "avgSeconds": 4111,
+      "totalSeconds": 41107,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:28.695Z"
+    },
+    "PLP09": {
+      "playlistId": "PL_A4M5IAkMadTDfU4hJ23tdPqIwV-v6io",
+      "avgSeconds": 3530,
+      "totalSeconds": 45885,
+      "fetchedCount": 13,
+      "listedVideoCount": 13,
+      "fetchedAt": "2026-10-09T20:36:29.174Z"
+    },
+    "PLP10": {
+      "playlistId": "PL_A4M5IAkMad-bxE6Fu7wyp_wyUcctCmU",
+      "avgSeconds": 4711,
+      "totalSeconds": 61241,
+      "fetchedCount": 13,
+      "listedVideoCount": 13,
+      "fetchedAt": "2026-10-09T20:36:29.741Z"
+    },
+    "PLP11": {
+      "playlistId": "PL_A4M5IAkMacVaetkKqlCBstwK7TdjOa9",
+      "avgSeconds": 4240,
+      "totalSeconds": 97514,
+      "fetchedCount": 23,
+      "listedVideoCount": 23,
+      "fetchedAt": "2026-10-09T20:36:30.318Z"
+    },
+    "PLP12": {
+      "playlistId": "PL_A4M5IAkMaeGEjLX2pJU-qqnPcyjpBiV",
+      "avgSeconds": 2775,
+      "totalSeconds": 27754,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:30.874Z"
+    },
+    "PLP13": {
+      "playlistId": "PL_A4M5IAkMaeHLCeyvLZUOImS9DpS9Upw",
+      "avgSeconds": 3255,
+      "totalSeconds": 13018,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:31.330Z"
+    },
+    "PLP14": {
+      "playlistId": "PL_A4M5IAkMacuWACFhY1HSZAfZlwml0X4",
+      "avgSeconds": 4150,
+      "totalSeconds": 45647,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:31.851Z"
+    },
+    "PLP15": {
+      "playlistId": "PL_A4M5IAkMafG5CsFH-5CttMefImCOjjA",
+      "avgSeconds": 4383,
+      "totalSeconds": 21917,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:36:32.312Z"
+    },
+    "PLP16": {
+      "playlistId": "PL_A4M5IAkMaeuFFlZiVXrOQ3cDlvOl3qu",
+      "avgSeconds": 3674,
+      "totalSeconds": 11023,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:36:32.818Z"
+    },
+    "PLP17": {
+      "playlistId": "PL_A4M5IAkMaf9s43maESqyRVDskARgaGh",
+      "avgSeconds": 3191,
+      "totalSeconds": 12762,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:33.341Z"
+    },
+    "PLP18": {
+      "playlistId": "PL_A4M5IAkMaf2W0zmaowmkA10PGo2LTv_",
+      "avgSeconds": 3038,
+      "totalSeconds": 12151,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:33.829Z"
+    },
+    "PLP19": {
+      "playlistId": "PL_A4M5IAkMadCqEDGWpPY-ScpPMZpVHqK",
+      "avgSeconds": 4937,
+      "totalSeconds": 34557,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:36:34.352Z"
+    },
+    "PLP20": {
+      "playlistId": "PL_A4M5IAkMadOzxKmO5t223TkLNxCt2Vn",
+      "avgSeconds": 3510,
+      "totalSeconds": 28082,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:36:34.874Z"
+    },
+    "PLP21": {
+      "playlistId": "PL_A4M5IAkMaegSCELKLq7FFLhYJdVIL87",
+      "avgSeconds": 2991,
+      "totalSeconds": 17944,
+      "fetchedCount": 6,
+      "listedVideoCount": 6,
+      "fetchedAt": "2026-10-09T20:36:35.354Z"
+    },
+    "PLP22": {
+      "playlistId": "PL_A4M5IAkMaclEO9yS-dyifDyAxIOqmTa",
+      "avgSeconds": 3826,
+      "totalSeconds": 57394,
+      "fetchedCount": 15,
+      "listedVideoCount": 15,
+      "fetchedAt": "2026-10-09T20:36:35.911Z"
+    },
+    "PLP23": {
+      "playlistId": "PL_A4M5IAkMafu-f7-CE7JXlzyi-l3FEfk",
+      "avgSeconds": 4219,
+      "totalSeconds": 50625,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:36:36.429Z"
+    },
+    "PLP24": {
+      "playlistId": "PL_A4M5IAkMac9yFGuvQIRmEDIdGaf-wRk",
+      "avgSeconds": 4488,
+      "totalSeconds": 62832,
+      "fetchedCount": 14,
+      "listedVideoCount": 14,
+      "fetchedAt": "2026-10-09T20:36:36.980Z"
+    },
+    "PLP25": {
+      "playlistId": "PL_A4M5IAkMae_Hntw2myU3dHQ417zcxn6",
+      "avgSeconds": 5040,
+      "totalSeconds": 115909,
+      "fetchedCount": 23,
+      "listedVideoCount": 23,
+      "fetchedAt": "2026-10-09T20:36:37.542Z"
+    },
+    "PLP27": {
+      "playlistId": "PL_A4M5IAkMaf4jTvOb0KoK4jmcZKw386A",
+      "avgSeconds": 4426,
+      "totalSeconds": 53117,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:36:38.077Z"
+    },
+    "PLP28": {
+      "playlistId": "PL_A4M5IAkMafFQcF0bW3sccrtnGx0FXO2",
+      "avgSeconds": 4080,
+      "totalSeconds": 65275,
+      "fetchedCount": 16,
+      "listedVideoCount": 16,
+      "fetchedAt": "2026-10-09T20:36:38.612Z"
+    },
+    "PLP29": {
+      "playlistId": "PL_A4M5IAkMacf--9QU-ep-YmRHc3e2_6v",
+      "avgSeconds": 5025,
+      "totalSeconds": 35177,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:36:39.137Z"
+    },
+    "PLP30": {
+      "playlistId": "PL_A4M5IAkMadhXJKhZnVuDeO_0UAaqIXB",
+      "avgSeconds": 5109,
+      "totalSeconds": 51092,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:39.676Z"
+    },
+    "PLP31": {
+      "playlistId": "PL_A4M5IAkMaep4iUj6n41zCeyGQ6TlXcq",
+      "avgSeconds": 4521,
+      "totalSeconds": 18082,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:40.129Z"
+    },
+    "PLP32": {
+      "playlistId": "PL_A4M5IAkMadVthpkQ-MUWN5ldV_BO8op",
+      "avgSeconds": 4801,
+      "totalSeconds": 76808,
+      "fetchedCount": 16,
+      "listedVideoCount": 16,
+      "fetchedAt": "2026-10-09T20:36:40.687Z"
+    },
+    "PLP33": {
+      "playlistId": "PL_A4M5IAkMafg7ZUZZpXS8mGSBP49fjl3",
+      "avgSeconds": 4362,
+      "totalSeconds": 26170,
+      "fetchedCount": 6,
+      "listedVideoCount": 6,
+      "fetchedAt": "2026-10-09T20:36:41.159Z"
+    },
+    "PLP34": {
+      "playlistId": "PL_A4M5IAkMaf_asByahBdaKz8R-iGB91L",
+      "avgSeconds": 3427,
+      "totalSeconds": 17134,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:36:41.618Z"
+    },
+    "PLP35": {
+      "playlistId": "PL_A4M5IAkMaeXk9ukLRM-SS-b3e18SMwj",
+      "avgSeconds": 1498,
+      "totalSeconds": 103382,
+      "fetchedCount": 69,
+      "listedVideoCount": 69,
+      "fetchedAt": "2026-10-09T20:36:42.841Z"
+    },
+    "PLP36": {
+      "playlistId": "PL_A4M5IAkMafiM0-L2Uv0aeZH3K2YS2A0",
+      "avgSeconds": 2067,
+      "totalSeconds": 14466,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:36:43.307Z"
+    },
+    "PLP37": {
+      "playlistId": "PL_A4M5IAkMac8lrmOeJ3yuiqPPNXxnh6Q",
+      "avgSeconds": 4813,
+      "totalSeconds": 52941,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:43.820Z"
+    },
+    "PLP38": {
+      "playlistId": "PL_A4M5IAkMafsz-lLF3hcCPa3ntZegP-s",
+      "avgSeconds": 4219,
+      "totalSeconds": 29533,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:36:44.268Z"
+    },
+    "PLP39": {
+      "playlistId": "PL_A4M5IAkMadYqzTASKdG_r2YQ2XP8-o9",
+      "avgSeconds": 3939,
+      "totalSeconds": 35454,
+      "fetchedCount": 9,
+      "listedVideoCount": 9,
+      "fetchedAt": "2026-10-09T20:36:44.800Z"
+    },
+    "PLP40": {
+      "playlistId": "PL_A4M5IAkMaePCUyUqNrAhqPT3Lg8G85d",
+      "avgSeconds": 3399,
+      "totalSeconds": 13594,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:45.245Z"
+    },
+    "PLP41": {
+      "playlistId": "PL_A4M5IAkMad1pjDKqz6DZuH32ynVQjqh",
+      "avgSeconds": 4602,
+      "totalSeconds": 46018,
+      "fetchedCount": 10,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:45.854Z"
+    },
+    "PLP42": {
+      "playlistId": "PL_A4M5IAkMadpiaxmDasoChFugiq6K53N",
+      "avgSeconds": 3944,
+      "totalSeconds": 39435,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:46.375Z"
+    },
+    "PLP43": {
+      "playlistId": "PL_A4M5IAkMadLq0IUyZW8s44EHCj3xClG",
+      "avgSeconds": 3476,
+      "totalSeconds": 10428,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:36:46.825Z"
+    },
+    "PLC01": {
+      "playlistId": "PL_A4M5IAkMaccW6F0AgKT-mmrlAQksYCu",
+      "avgSeconds": 1742,
+      "totalSeconds": 20904,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:36:47.298Z"
+    },
+    "PLC02": {
+      "playlistId": "PL_A4M5IAkMafCoVdcacbzrXlRy76fOTwJ",
+      "avgSeconds": 1499,
+      "totalSeconds": 50977,
+      "fetchedCount": 34,
+      "listedVideoCount": 34,
+      "fetchedAt": "2026-10-09T20:36:47.892Z"
+    },
+    "PLC03": {
+      "playlistId": "PL_A4M5IAkMafTWeOy5tK5ZsfjY8BpuxS9",
+      "avgSeconds": 1729,
+      "totalSeconds": 25940,
+      "fetchedCount": 15,
+      "listedVideoCount": 15,
+      "fetchedAt": "2026-10-09T20:36:48.370Z"
+    },
+    "PLC04": {
+      "playlistId": "PL_A4M5IAkMae9ET3gaJB3jMt6DNT5h4Bo",
+      "avgSeconds": 1535,
+      "totalSeconds": 85957,
+      "fetchedCount": 56,
+      "listedVideoCount": 56,
+      "fetchedAt": "2026-10-09T20:36:49.452Z"
+    },
+    "PLC05": {
+      "playlistId": "PL_A4M5IAkMaf71_7enQvAZ41ZdIKAFxf5",
+      "avgSeconds": 1408,
+      "totalSeconds": 38009,
+      "fetchedCount": 27,
+      "listedVideoCount": 27,
+      "fetchedAt": "2026-10-09T20:36:50.003Z"
+    },
+    "PLC06": {
+      "playlistId": "PL_A4M5IAkMacJANxeuM-FvHD0VvWK-qo8",
+      "avgSeconds": 941,
+      "totalSeconds": 40451,
+      "fetchedCount": 43,
+      "listedVideoCount": 43,
+      "fetchedAt": "2026-10-09T20:36:50.614Z"
+    },
+    "PLC07": {
+      "playlistId": "PL_A4M5IAkMaf4gciHVigwW3oXX7Oa8lOd",
+      "avgSeconds": 1412,
+      "totalSeconds": 46603,
+      "fetchedCount": 33,
+      "listedVideoCount": 33,
+      "fetchedAt": "2026-10-09T20:36:51.230Z"
+    },
+    "PLC08": {
+      "playlistId": "PL_A4M5IAkMafc2p-SO0X7dPJGHp7kqO22",
+      "avgSeconds": 1767,
+      "totalSeconds": 40645,
+      "fetchedCount": 23,
+      "listedVideoCount": 23,
+      "fetchedAt": "2026-10-09T20:36:51.778Z"
+    },
+    "PLC09": {
+      "playlistId": "PL_A4M5IAkMac-tIcsX-GmJB6Jfv5wjVTp",
+      "avgSeconds": 993,
+      "totalSeconds": 10926,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:52.247Z"
+    },
+    "PLC10": {
+      "playlistId": "PL_A4M5IAkMaeL-Bo1AoVf8C6P1SuhNyyC",
+      "avgSeconds": 1372,
+      "totalSeconds": 78186,
+      "fetchedCount": 57,
+      "listedVideoCount": 57,
+      "fetchedAt": "2026-10-09T20:36:53.309Z"
+    },
+    "PLC11": {
+      "playlistId": "PL_A4M5IAkMaeghI_80Pllo-oJ_CfWSy59",
+      "avgSeconds": 1657,
+      "totalSeconds": 13254,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:36:53.809Z"
+    },
+    "PLC12": {
+      "playlistId": "PL_A4M5IAkMaeRvDnG59F_78rB1xnVGll9",
+      "avgSeconds": 1317,
+      "totalSeconds": 36883,
+      "fetchedCount": 28,
+      "listedVideoCount": 28,
+      "fetchedAt": "2026-10-09T20:36:54.317Z"
+    },
+    "PLC13": {
+      "playlistId": "PL_A4M5IAkMaeKDEe14ypLAzo6xPRBZF21",
+      "avgSeconds": 1752,
+      "totalSeconds": 3504,
+      "fetchedCount": 2,
+      "listedVideoCount": 2,
+      "fetchedAt": "2026-10-09T20:36:54.750Z"
+    },
+    "PLC14": {
+      "playlistId": "PL_A4M5IAkMaedwEboOyFHzyLrpVALNl_2",
+      "avgSeconds": 1595,
+      "totalSeconds": 17546,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:36:55.221Z"
+    },
+    "PLC15": {
+      "playlistId": "PL_A4M5IAkMadJjUIVhfb3yy8k2OgmmvYK",
+      "avgSeconds": 1381,
+      "totalSeconds": 41444,
+      "fetchedCount": 30,
+      "listedVideoCount": 30,
+      "fetchedAt": "2026-10-09T20:36:55.768Z"
+    },
+    "PLC16": {
+      "playlistId": "PL_A4M5IAkMadVClFbenvxsPq7g62AMcCq",
+      "avgSeconds": 1789,
+      "totalSeconds": 14308,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:36:56.226Z"
+    },
+    "PLC17": {
+      "playlistId": "PL_A4M5IAkMacYFXvzpLSoIlg0E0VZS0SJ",
+      "avgSeconds": 1647,
+      "totalSeconds": 24701,
+      "fetchedCount": 15,
+      "listedVideoCount": 15,
+      "fetchedAt": "2026-10-09T20:36:56.692Z"
+    },
+    "PLC18": {
+      "playlistId": "PL_A4M5IAkMaextKWMgtkp2liGnkRuL2FO",
+      "avgSeconds": 1823,
+      "totalSeconds": 49234,
+      "fetchedCount": 27,
+      "listedVideoCount": 27,
+      "fetchedAt": "2026-10-09T20:36:57.278Z"
+    },
+    "PLC19": {
+      "playlistId": "PL_A4M5IAkMacAn57fO31MAFV0S0AU6iCi",
+      "avgSeconds": 1987,
+      "totalSeconds": 61601,
+      "fetchedCount": 31,
+      "listedVideoCount": 31,
+      "fetchedAt": "2026-10-09T20:36:57.821Z"
+    },
+    "PLC20": {
+      "playlistId": "PL_A4M5IAkMac_LYfuXMn_AfI-hpORmrSZ",
+      "avgSeconds": 2394,
+      "totalSeconds": 38305,
+      "fetchedCount": 16,
+      "listedVideoCount": 16,
+      "fetchedAt": "2026-10-09T20:36:58.372Z"
+    },
+    "PLC21": {
+      "playlistId": "PL_A4M5IAkMafuBktuLJWiMbqqqONuY6Ti",
+      "avgSeconds": 3229,
+      "totalSeconds": 32286,
+      "fetchedCount": 10,
+      "listedVideoCount": 10,
+      "fetchedAt": "2026-10-09T20:36:58.834Z"
+    },
+    "PLC22": {
+      "playlistId": "PL_A4M5IAkMafrSGEfB92LgHNHcJD02O29",
+      "avgSeconds": 1857,
+      "totalSeconds": 7426,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:36:59.291Z"
+    },
+    "PLC23": {
+      "playlistId": "PL_A4M5IAkMadIk5zPjnR2XgZi2n_7_Qwo",
+      "avgSeconds": 2105,
+      "totalSeconds": 16843,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:36:59.747Z"
+    },
+    "PLC24": {
+      "playlistId": "PL_A4M5IAkMaeFN4bIxWXLr-6FTbZqZNeO",
+      "avgSeconds": 1491,
+      "totalSeconds": 25350,
+      "fetchedCount": 17,
+      "listedVideoCount": 17,
+      "fetchedAt": "2026-10-09T20:37:00.220Z"
+    },
+    "PLC25": {
+      "playlistId": "PL_A4M5IAkMad1dbC1btiIdnTU0lfnYV1L",
+      "avgSeconds": 2349,
+      "totalSeconds": 39932,
+      "fetchedCount": 17,
+      "listedVideoCount": 17,
+      "fetchedAt": "2026-10-09T20:37:00.703Z"
+    },
+    "PLC26": {
+      "playlistId": "PL_A4M5IAkMaeKHTVfY4er9dviHKS3gUzy",
+      "avgSeconds": 1452,
+      "totalSeconds": 46473,
+      "fetchedCount": 32,
+      "listedVideoCount": 32,
+      "fetchedAt": "2026-10-09T20:37:01.269Z"
+    },
+    "PLC27": {
+      "playlistId": "PL_A4M5IAkMad_XS2fNetEPTFguJBVrXwd",
+      "avgSeconds": 1910,
+      "totalSeconds": 21009,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:37:01.766Z"
+    },
+    "PLC28": {
+      "playlistId": "PL_A4M5IAkMadkjXXk9EiOUrn1lGbBico_",
+      "avgSeconds": 1321,
+      "totalSeconds": 34335,
+      "fetchedCount": 26,
+      "listedVideoCount": 26,
+      "fetchedAt": "2026-10-09T20:37:02.270Z"
+    },
+    "PLC29": {
+      "playlistId": "PL_A4M5IAkMafcoPui8OSj7I1NcanYLOZG",
+      "avgSeconds": 3082,
+      "totalSeconds": 46224,
+      "fetchedCount": 15,
+      "listedVideoCount": 15,
+      "fetchedAt": "2026-10-09T20:37:02.753Z"
+    },
+    "PLC30": {
+      "playlistId": "PL_A4M5IAkMadgDwH13M1jouR_8PEo24QG",
+      "avgSeconds": 2036,
+      "totalSeconds": 26474,
+      "fetchedCount": 13,
+      "listedVideoCount": 13,
+      "fetchedAt": "2026-10-09T20:37:03.258Z"
+    },
+    "PLC31": {
+      "playlistId": "PL_A4M5IAkMacfcfyAANNIQOuDqHUI5weL",
+      "avgSeconds": 1317,
+      "totalSeconds": 30297,
+      "fetchedCount": 23,
+      "listedVideoCount": 23,
+      "fetchedAt": "2026-10-09T20:37:03.807Z"
+    },
+    "PLC32": {
+      "playlistId": "PL_A4M5IAkMacBob5iqWgldry3gKHEUipf",
+      "avgSeconds": 1820,
+      "totalSeconds": 10918,
+      "fetchedCount": 6,
+      "listedVideoCount": 6,
+      "fetchedAt": "2026-10-09T20:37:04.242Z"
+    },
+    "PLC33": {
+      "playlistId": "PL_A4M5IAkMacJHCXkUt-73k--709WPvVs",
+      "avgSeconds": 2211,
+      "totalSeconds": 19900,
+      "fetchedCount": 9,
+      "listedVideoCount": 9,
+      "fetchedAt": "2026-10-09T20:37:04.727Z"
+    },
+    "PLC34": {
+      "playlistId": "PL_A4M5IAkMacxIWVbn6uUj1kTpdYo9nOa",
+      "avgSeconds": 1836,
+      "totalSeconds": 22035,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:37:05.242Z"
+    },
+    "PLC35": {
+      "playlistId": "PL_A4M5IAkMaf1p-a4Sr47inlPd6HHDb60",
+      "avgSeconds": 2877,
+      "totalSeconds": 48911,
+      "fetchedCount": 17,
+      "listedVideoCount": 17,
+      "fetchedAt": "2026-10-09T20:37:05.749Z"
+    },
+    "PLC36": {
+      "playlistId": "PL_A4M5IAkMac47LLQFY_RA4IHR4CUJl5I",
+      "avgSeconds": 1424,
+      "totalSeconds": 47005,
+      "fetchedCount": 33,
+      "listedVideoCount": 33,
+      "fetchedAt": "2026-10-09T20:37:06.317Z"
+    },
+    "PLC37": {
+      "playlistId": "PL_A4M5IAkMafYSOfKgyE8Wl_uWzR2M_FU",
+      "avgSeconds": 2038,
+      "totalSeconds": 8152,
+      "fetchedCount": 4,
+      "listedVideoCount": 4,
+      "fetchedAt": "2026-10-09T20:37:06.782Z"
+    },
+    "PLC38": {
+      "playlistId": "PL_A4M5IAkMafI3Li4aCyQSa-HX6WMUlak",
+      "avgSeconds": 1282,
+      "totalSeconds": 26931,
+      "fetchedCount": 21,
+      "listedVideoCount": 21,
+      "fetchedAt": "2026-10-09T20:37:07.328Z"
+    },
+    "PLC39": {
+      "playlistId": "PL_A4M5IAkMafkw_Mr6VzCzK2RQZindA3H",
+      "avgSeconds": 1925,
+      "totalSeconds": 9623,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:37:07.778Z"
+    },
+    "PLC40": {
+      "playlistId": "PL_A4M5IAkMacB98GRxBk6Fs96_WwbyQdS",
+      "avgSeconds": 1824,
+      "totalSeconds": 29187,
+      "fetchedCount": 16,
+      "listedVideoCount": 16,
+      "fetchedAt": "2026-10-09T20:37:08.297Z"
+    },
+    "PLC41": {
+      "playlistId": "PL_A4M5IAkMae9BWZoNV9PZSGhv7uSIgvH",
+      "avgSeconds": 2719,
+      "totalSeconds": 38069,
+      "fetchedCount": 14,
+      "listedVideoCount": 14,
+      "fetchedAt": "2026-10-09T20:37:08.830Z"
+    },
+    "PLC42": {
+      "playlistId": "PL_A4M5IAkMaf1tQ9MqxPgXstm1k0E934E",
+      "avgSeconds": 1890,
+      "totalSeconds": 15121,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:37:09.294Z"
+    },
+    "PLC43": {
+      "playlistId": "PL_A4M5IAkMadwg0cUeLZORu6n-bVjVBBd",
+      "avgSeconds": 1671,
+      "totalSeconds": 33424,
+      "fetchedCount": 20,
+      "listedVideoCount": 20,
+      "fetchedAt": "2026-10-09T20:37:09.807Z"
+    },
+    "PLC44": {
+      "playlistId": "PL_A4M5IAkMae4Xd0YMGWEOLH0L6VgSuX5",
+      "avgSeconds": 2737,
+      "totalSeconds": 38313,
+      "fetchedCount": 14,
+      "listedVideoCount": 14,
+      "fetchedAt": "2026-10-09T20:37:10.378Z"
+    },
+    "PLC45": {
+      "playlistId": "PL_A4M5IAkMaeB0QwGTmtO7A4afsbxgn8D",
+      "avgSeconds": 2973,
+      "totalSeconds": 8920,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:37:10.839Z"
+    },
+    "PLC46": {
+      "playlistId": "PL_A4M5IAkMadJl8y-zgo9Yen3aMzWo20b",
+      "avgSeconds": 3912,
+      "totalSeconds": 11737,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:37:11.287Z"
+    },
+    "PLC47": {
+      "playlistId": "PL_A4M5IAkMaeB-L4cgWx3Z_OMYBUKqOFP",
+      "avgSeconds": 3829,
+      "totalSeconds": 7657,
+      "fetchedCount": 2,
+      "listedVideoCount": 2,
+      "fetchedAt": "2026-10-09T20:37:11.729Z"
+    },
+    "PLC48": {
+      "playlistId": "PL_A4M5IAkMadFwfHLDsGFGynlaFhM7FJP",
+      "avgSeconds": 1497,
+      "totalSeconds": 11975,
+      "fetchedCount": 8,
+      "listedVideoCount": 8,
+      "fetchedAt": "2026-10-09T20:37:12.189Z"
+    },
+    "PLC49": {
+      "playlistId": "PL_A4M5IAkMafY-zLtSFbj0MsVfI1cF174",
+      "avgSeconds": 551,
+      "totalSeconds": 4957,
+      "fetchedCount": 9,
+      "listedVideoCount": 9,
+      "fetchedAt": "2026-10-09T20:37:12.696Z"
+    },
+    "PLM01": {
+      "playlistId": "PL_A4M5IAkMafig81EHnu345hUAHXOhe46",
+      "avgSeconds": 577,
+      "totalSeconds": 22495,
+      "fetchedCount": 39,
+      "listedVideoCount": 39,
+      "fetchedAt": "2026-10-09T20:37:13.330Z"
+    },
+    "PLM02": {
+      "playlistId": "PL_A4M5IAkMadF2rExT0C-TvtH2vn3dLGR",
+      "avgSeconds": 2752,
+      "totalSeconds": 13761,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:37:13.806Z"
+    },
+    "PLM03": {
+      "playlistId": "PL_A4M5IAkMacrV8SEYwiGbrl6grKEISNc",
+      "avgSeconds": 826,
+      "totalSeconds": 11558,
+      "fetchedCount": 14,
+      "listedVideoCount": 14,
+      "fetchedAt": "2026-10-09T20:37:14.352Z"
+    },
+    "PLM04": {
+      "playlistId": "PL_A4M5IAkMacsfE8rJJu5YRDrW19YbbAx",
+      "avgSeconds": 2021,
+      "totalSeconds": 6062,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:37:14.814Z"
+    },
+    "PLM05": {
+      "playlistId": "PL_A4M5IAkMad5zB0Dh6gUw1eYK8dN7hP7",
+      "avgSeconds": 676,
+      "totalSeconds": 127688,
+      "fetchedCount": 189,
+      "listedVideoCount": 189,
+      "fetchedAt": "2026-10-09T20:37:17.358Z"
+    },
+    "PLM06": {
+      "playlistId": "PL_A4M5IAkMaf5Ga3nQJe-gg-0zXG77YRB",
+      "avgSeconds": 665,
+      "totalSeconds": 43914,
+      "fetchedCount": 66,
+      "listedVideoCount": 66,
+      "fetchedAt": "2026-10-09T20:37:18.466Z"
+    },
+    "PLM07": {
+      "playlistId": "PL_A4M5IAkMaeC1JQUXbAYMTKGu0DppkSz",
+      "avgSeconds": 676,
+      "totalSeconds": 12170,
+      "fetchedCount": 18,
+      "listedVideoCount": 18,
+      "fetchedAt": "2026-10-09T20:37:18.973Z"
+    },
+    "PLM08": {
+      "playlistId": "PL_A4M5IAkMafhPkzpa16mbUDqD8d7bBhL",
+      "avgSeconds": 643,
+      "totalSeconds": 46293,
+      "fetchedCount": 72,
+      "listedVideoCount": 72,
+      "fetchedAt": "2026-10-09T20:37:20.174Z"
+    },
+    "PLM09": {
+      "playlistId": "PL_A4M5IAkMafsM4VwfCbZ8Oa4i_96R09n",
+      "avgSeconds": 3376,
+      "totalSeconds": 10127,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:37:20.666Z"
+    },
+    "PLM10": {
+      "playlistId": "PL_A4M5IAkMacqcUtkJPTPXSrvNm_5NK-v",
+      "avgSeconds": 2223,
+      "totalSeconds": 13338,
+      "fetchedCount": 6,
+      "listedVideoCount": 6,
+      "fetchedAt": "2026-10-09T20:37:21.138Z"
+    },
+    "PLM11": {
+      "playlistId": "PL_A4M5IAkMaerL1K-p5sRRdzjNrqn72Rg",
+      "avgSeconds": 1775,
+      "totalSeconds": 15978,
+      "fetchedCount": 9,
+      "listedVideoCount": 9,
+      "fetchedAt": "2026-10-09T20:37:21.634Z"
+    },
+    "PLM12": {
+      "playlistId": "PL_A4M5IAkMaedGbnmLZVKTkd6RS0X3XZB",
+      "avgSeconds": 1082,
+      "totalSeconds": 3246,
+      "fetchedCount": 3,
+      "listedVideoCount": 3,
+      "fetchedAt": "2026-10-09T20:37:22.074Z"
+    },
+    "PLM13": {
+      "playlistId": "PL_A4M5IAkMad3oVwABWAwMOPxsQlIEz38",
+      "avgSeconds": 757,
+      "totalSeconds": 8329,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:37:22.553Z"
+    },
+    "PLM14": {
+      "playlistId": "PL_A4M5IAkMaeu--QWWngkEI10RKOXf8TF",
+      "avgSeconds": 616,
+      "totalSeconds": 54171,
+      "fetchedCount": 88,
+      "listedVideoCount": 88,
+      "fetchedAt": "2026-10-09T20:37:23.758Z"
+    },
+    "PLM15": {
+      "playlistId": "PL_A4M5IAkMaeLzehBWWVD_EZL7EuaVP-X",
+      "avgSeconds": 2020,
+      "totalSeconds": 40394,
+      "fetchedCount": 20,
+      "listedVideoCount": 20,
+      "fetchedAt": "2026-10-09T20:37:24.376Z"
+    },
+    "PLM16": {
+      "playlistId": "PL_A4M5IAkMae1vVGOC3Ptr4qXYZOqXvJa",
+      "avgSeconds": 2147,
+      "totalSeconds": 40796,
+      "fetchedCount": 19,
+      "listedVideoCount": 19,
+      "fetchedAt": "2026-10-09T20:37:24.910Z"
+    },
+    "PLM17": {
+      "playlistId": "PL_A4M5IAkMacMdMvJYgRkmXwmpeT2n_aE",
+      "avgSeconds": 913,
+      "totalSeconds": 10041,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:37:25.399Z"
+    },
+    "PLM18": {
+      "playlistId": "PL_A4M5IAkMacSgRRlEkUB9v-gE1yxw_rG",
+      "avgSeconds": 587,
+      "totalSeconds": 53965,
+      "fetchedCount": 92,
+      "listedVideoCount": 92,
+      "fetchedAt": "2026-10-09T20:37:26.693Z"
+    },
+    "PLM19": {
+      "playlistId": "PL_A4M5IAkMafsNaawDfrQl6EhgdEiWVD6",
+      "avgSeconds": 1834,
+      "totalSeconds": 22011,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:37:27.199Z"
+    },
+    "PLM20": {
+      "playlistId": "PL_A4M5IAkMaex9aIhynPtk3ZO-xO_G2kJ",
+      "avgSeconds": 659,
+      "totalSeconds": 16472,
+      "fetchedCount": 25,
+      "listedVideoCount": 25,
+      "fetchedAt": "2026-10-09T20:37:27.692Z"
+    },
+    "PLM21": {
+      "playlistId": "PL_A4M5IAkMaf3M7rSq9M4NmLACdYuCQ_7",
+      "avgSeconds": 2550,
+      "totalSeconds": 50997,
+      "fetchedCount": 20,
+      "listedVideoCount": 20,
+      "fetchedAt": "2026-10-09T20:37:28.217Z"
+    },
+    "PLM22": {
+      "playlistId": "PL_A4M5IAkMadiR6WFaUTQegpdKUJRD90D",
+      "avgSeconds": 2354,
+      "totalSeconds": 44721,
+      "fetchedCount": 19,
+      "listedVideoCount": 19,
+      "fetchedAt": "2026-10-09T20:37:28.743Z"
+    },
+    "PLM23": {
+      "playlistId": "PL_A4M5IAkMaeT3qAAgcvUXiKnM044FO44",
+      "avgSeconds": 2033,
+      "totalSeconds": 22362,
+      "fetchedCount": 11,
+      "listedVideoCount": 11,
+      "fetchedAt": "2026-10-09T20:37:29.225Z"
+    },
+    "PLM24": {
+      "playlistId": "PL_A4M5IAkMae6_gCoLFltXl3bmtZmOvjQ",
+      "avgSeconds": 2317,
+      "totalSeconds": 16222,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:37:29.712Z"
+    },
+    "PLM25": {
+      "playlistId": "PL_A4M5IAkMaeaLAU22ViTSvk3T7AWxnT_",
+      "avgSeconds": 1793,
+      "totalSeconds": 12548,
+      "fetchedCount": 7,
+      "listedVideoCount": 7,
+      "fetchedAt": "2026-10-09T20:37:30.153Z"
+    },
+    "PLM26": {
+      "playlistId": "PL_A4M5IAkMaexM2nxZt512ESPt83EshJq",
+      "avgSeconds": 610,
+      "totalSeconds": 60387,
+      "fetchedCount": 99,
+      "listedVideoCount": 99,
+      "fetchedAt": "2026-10-09T20:37:31.311Z"
+    },
+    "PLM27": {
+      "playlistId": "PL_A4M5IAkMads1bsxLYBoJOLA3bWsY7mK",
+      "avgSeconds": 639,
+      "totalSeconds": 29385,
+      "fetchedCount": 46,
+      "listedVideoCount": 46,
+      "fetchedAt": "2026-10-09T20:37:31.921Z"
+    },
+    "PLM28": {
+      "playlistId": "PL_A4M5IAkMafj2vfy6rQHtTzgA_TnJsZ_",
+      "avgSeconds": 592,
+      "totalSeconds": 26657,
+      "fetchedCount": 45,
+      "listedVideoCount": 45,
+      "fetchedAt": "2026-10-09T20:37:32.548Z"
+    },
+    "PLM29": {
+      "playlistId": "PL_A4M5IAkMaeewzwCJPpL65y1HV0VAiC4",
+      "avgSeconds": 576,
+      "totalSeconds": 36259,
+      "fetchedCount": 63,
+      "listedVideoCount": 63,
+      "fetchedAt": "2026-10-09T20:37:33.610Z"
+    },
+    "PLM30": {
+      "playlistId": "PL_A4M5IAkMacK_BU3vfAcCOuOJtQOHNfI",
+      "avgSeconds": 620,
+      "totalSeconds": 83137,
+      "fetchedCount": 134,
+      "listedVideoCount": 134,
+      "fetchedAt": "2026-10-09T20:37:35.422Z"
+    },
+    "PLM31": {
+      "playlistId": "PL_A4M5IAkMacK7OyqPwHe0rvG4KqxFIum",
+      "avgSeconds": 595,
+      "totalSeconds": 51760,
+      "fetchedCount": 87,
+      "listedVideoCount": 87,
+      "fetchedAt": "2026-10-09T20:37:36.611Z"
+    },
+    "PLM32": {
+      "playlistId": "PL_A4M5IAkMafGD8xJhm9IioyF_norREYN",
+      "avgSeconds": 610,
+      "totalSeconds": 52474,
+      "fetchedCount": 86,
+      "listedVideoCount": 86,
+      "fetchedAt": "2026-10-09T20:37:38.021Z"
+    },
+    "PLM33": {
+      "playlistId": "PL_A4M5IAkMaf8TqINqRXRlWeuFgl6fBgf",
+      "avgSeconds": 2825,
+      "totalSeconds": 5649,
+      "fetchedCount": 2,
+      "listedVideoCount": 2,
+      "fetchedAt": "2026-10-09T20:37:38.445Z"
+    },
+    "PLM34": {
+      "playlistId": "PL_A4M5IAkMaeukUFW7G-KjoL-K2T3B3Mg",
+      "avgSeconds": 2318,
+      "totalSeconds": 11590,
+      "fetchedCount": 5,
+      "listedVideoCount": 5,
+      "fetchedAt": "2026-10-09T20:37:38.897Z"
+    },
+    "PLM35": {
+      "playlistId": "PL_A4M5IAkMafmea0RnicbuLD6Ly2EIr0X",
+      "avgSeconds": 2803,
+      "totalSeconds": 33636,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:37:39.379Z"
+    },
+    "PLM36": {
+      "playlistId": "PL_A4M5IAkMadco0ISV4gL7BEkzs7ki6lm",
+      "avgSeconds": 960,
+      "totalSeconds": 11519,
+      "fetchedCount": 12,
+      "listedVideoCount": 12,
+      "fetchedAt": "2026-10-09T20:37:39.845Z"
+    },
+    "PLM37": {
+      "playlistId": "PL_A4M5IAkMaf-WePkSulK_zt0yfQUrZgE",
+      "avgSeconds": 1484,
+      "totalSeconds": 23751,
+      "fetchedCount": 16,
+      "listedVideoCount": 16,
+      "fetchedAt": "2026-10-09T20:37:40.344Z"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+JEE OS 2.2.1 — CALENDAR HISTORY FIX
+
+Change
+- Calendar now includes the previous 30 days, even when the configured plan start is today or in the future.
+- If saved lecture activity or other calendar entries exist earlier than that window, the calendar extends further back to include them.
+- Past dates remain selectable and show completed lecture ticks, revision items, and test records for that date.
+- Missed-day highlighting continues to apply only to past dates on/after the configured plan start, excluding rest days and dates with completed lectures.
+
+Preserved
+- Sequential chapter order: Physics chapter 1 → Chemistry chapter 1 → Maths chapter 1, then repeat by chapter.
+- Special kickoff schedule for 10–11 October 2026.
+- 1.5× watch-time estimates and whole-video scheduling.
+- Existing duration merge fix, Watch buttons, curriculum, saved progress structure, and APK workflow.
+
+Validation
+- JavaScript syntax check and ZIP integrity check performed.
+- Android APK build/install not performed in this environment.

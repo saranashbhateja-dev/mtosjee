@@ -1,0 +1,9872 @@
+{
+  "v": 5,
+  "name": "",
+  "exam": "",
+  "theme": "dark",
+  "planStart": "2026-10-10",
+  "perDay": 2,
+  "rest": 0,
+  "balance": true,
+  "buffer": 30,
+  "chapters": [
+    {
+      "id": "PLP01",
+      "sub": "P",
+      "name": "Mathematical Tools for Physics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaev6ovGTwhfLLidWzCveoHZ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP02",
+      "sub": "P",
+      "name": "Errors and Measurement",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafDl40Jkm0VGDKm6j4xgClj",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP03",
+      "sub": "P",
+      "name": "Motion in a Straight Line",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadyoou3Fl2jR0pG3X1Wi6xA",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP04",
+      "sub": "P",
+      "name": "Relative Motion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadzVrsTcZqRkeZ6SOko8pMd",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP05",
+      "sub": "P",
+      "name": "Projectile Motion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac_AeDfj1l85vp_93Dk_Agt",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP06",
+      "sub": "P",
+      "name": "Newton’s Laws of Motion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadXu_0_nqUQAANlsPNxCM42",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP07",
+      "sub": "P",
+      "name": "Friction",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafEN4paY3nfD2U3GsXSu_6F",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP08",
+      "sub": "P",
+      "name": "Circular Motion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeMjUB_3Z26hU58Gsbwm4Ji",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP09",
+      "sub": "P",
+      "name": "Work, Energy and Power",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadTDfU4hJ23tdPqIwV-v6io",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP10",
+      "sub": "P",
+      "name": "Centre of Mass",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad-bxE6Fu7wyp_wyUcctCmU",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP11",
+      "sub": "P",
+      "name": "Rotational Dynamics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacVaetkKqlCBstwK7TdjOa9",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP12",
+      "sub": "P",
+      "name": "Gravitation",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeGEjLX2pJU-qqnPcyjpBiV",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP13",
+      "sub": "P",
+      "name": "Mechanical Properties of Solids: Elasticity",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeHLCeyvLZUOImS9DpS9Upw",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP14",
+      "sub": "P",
+      "name": "Fluid Mechanics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacuWACFhY1HSZAfZlwml0X4",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP15",
+      "sub": "P",
+      "name": "Surface Tension",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafG5CsFH-5CttMefImCOjjA",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP16",
+      "sub": "P",
+      "name": "Viscosity",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeuFFlZiVXrOQ3cDlvOl3qu",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP17",
+      "sub": "P",
+      "name": "Thermal Expansion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf9s43maESqyRVDskARgaGh",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP18",
+      "sub": "P",
+      "name": "Calorimetry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf2W0zmaowmkA10PGo2LTv_",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP19",
+      "sub": "P",
+      "name": "Heat Transfer",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadCqEDGWpPY-ScpPMZpVHqK",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP20",
+      "sub": "P",
+      "name": "Thermodynamics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadOzxKmO5t223TkLNxCt2Vn",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP21",
+      "sub": "P",
+      "name": "Kinetic Theory of Gases",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaegSCELKLq7FFLhYJdVIL87",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP22",
+      "sub": "P",
+      "name": "Simple Harmonic Motion",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaclEO9yS-dyifDyAxIOqmTa",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP23",
+      "sub": "P",
+      "name": "Waves on a String",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafu-f7-CE7JXlzyi-l3FEfk",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP24",
+      "sub": "P",
+      "name": "Sound Waves",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac9yFGuvQIRmEDIdGaf-wRk",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP25",
+      "sub": "P",
+      "name": "Electrostatics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae_Hntw2myU3dHQ417zcxn6",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP26",
+      "sub": "P",
+      "name": "Conductors in Electrostatics",
+      "url": "Conductors in Electrostatics",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP27",
+      "sub": "P",
+      "name": "Capacitance",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf4jTvOb0KoK4jmcZKw386A",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP28",
+      "sub": "P",
+      "name": "Current Electricity",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafFQcF0bW3sccrtnGx0FXO2",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP29",
+      "sub": "P",
+      "name": "Magnetic Effect of Electric Current",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacf--9QU-ep-YmRHc3e2_6v",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP30",
+      "sub": "P",
+      "name": "Electromagnetic Forces and Magnetism",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadhXJKhZnVuDeO_0UAaqIXB",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP31",
+      "sub": "P",
+      "name": "Magnetic Properties of Matter",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaep4iUj6n41zCeyGQ6TlXcq",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP32",
+      "sub": "P",
+      "name": "Electromagnetic Induction",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadVthpkQ-MUWN5ldV_BO8op",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP33",
+      "sub": "P",
+      "name": "Alternating Current",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafg7ZUZZpXS8mGSBP49fjl3",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP34",
+      "sub": "P",
+      "name": "Electromagnetic Waves",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf_asByahBdaKz8R-iGB91L",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP35",
+      "sub": "P",
+      "name": "Geometrical Optics and Ray Optics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeXk9ukLRM-SS-b3e18SMwj",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP36",
+      "sub": "P",
+      "name": "Optical Instruments",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafiM0-L2Uv0aeZH3K2YS2A0",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP37",
+      "sub": "P",
+      "name": "Wave Optics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac8lrmOeJ3yuiqPPNXxnh6Q",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP38",
+      "sub": "P",
+      "name": "Photoelectric Effect",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafsz-lLF3hcCPa3ntZegP-s",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP39",
+      "sub": "P",
+      "name": "Bohr’s Atomic Model",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadYqzTASKdG_r2YQ2XP8-o9",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP40",
+      "sub": "P",
+      "name": "X-Rays",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaePCUyUqNrAhqPT3Lg8G85d",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP41",
+      "sub": "P",
+      "name": "Nuclear Physics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad1pjDKqz6DZuH32ynVQjqh",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP42",
+      "sub": "P",
+      "name": "Semiconductor Electronics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadpiaxmDasoChFugiq6K53N",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLP43",
+      "sub": "P",
+      "name": "Communication Systems",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadLq0IUyZW8s44EHCj3xClG",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC01",
+      "sub": "C",
+      "name": "Mole Concept",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaccW6F0AgKT-mmrlAQksYCu",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC02",
+      "sub": "C",
+      "name": "Atomic Structure",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafCoVdcacbzrXlRy76fOTwJ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC03",
+      "sub": "C",
+      "name": "Periodic Table and Periodicity",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafTWeOy5tK5ZsfjY8BpuxS9",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC04",
+      "sub": "C",
+      "name": "Chemical Bonding",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae9ET3gaJB3jMt6DNT5h4Bo",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC05",
+      "sub": "C",
+      "name": "Gaseous State",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf71_7enQvAZ41ZdIKAFxf5",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC06",
+      "sub": "C",
+      "name": "IUPAC Nomenclature",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacJANxeuM-FvHD0VvWK-qo8 ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC07",
+      "sub": "C",
+      "name": "General Organic Chemistry I",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf4gciHVigwW3oXX7Oa8lOd",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC08",
+      "sub": "C",
+      "name": "General Organic Chemistry II",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafc2p-SO0X7dPJGHp7kqO22",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC09",
+      "sub": "C",
+      "name": "Structural Isomerism",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac-tIcsX-GmJB6Jfv5wjVTp",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC10",
+      "sub": "C",
+      "name": "Stereoisomerism",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeL-Bo1AoVf8C6P1SuhNyyC",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC11",
+      "sub": "C",
+      "name": "Thermochemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeghI_80Pllo-oJ_CfWSy59",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC12",
+      "sub": "C",
+      "name": "Thermodynamics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeRvDnG59F_78rB1xnVGll9",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC13",
+      "sub": "C",
+      "name": "Basic Inorganic Nomenclature",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeKDEe14ypLAzo6xPRBZF21",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC14",
+      "sub": "C",
+      "name": "Chemical Equilibrium",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaedwEboOyFHzyLrpVALNl_2",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC15",
+      "sub": "C",
+      "name": "Ionic Equilibrium",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadJjUIVhfb3yy8k2OgmmvYK",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC16",
+      "sub": "C",
+      "name": "General Inorganic Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadVClFbenvxsPq7g62AMcCq",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC17",
+      "sub": "C",
+      "name": "Redox Reactions and Equivalent Concept",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacYFXvzpLSoIlg0E0VZS0SJ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC18",
+      "sub": "C",
+      "name": "Organic Reaction Mechanism I",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaextKWMgtkp2liGnkRuL2FO",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC19",
+      "sub": "C",
+      "name": "Organic Reaction Mechanism II",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacAn57fO31MAFV0S0AU6iCi",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC20",
+      "sub": "C",
+      "name": "Organic Reaction Mechanism III",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac_LYfuXMn_AfI-hpORmrSZ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC21",
+      "sub": "C",
+      "name": "Organic Reaction Mechanism IV",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafuBktuLJWiMbqqqONuY6Ti",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC22",
+      "sub": "C",
+      "name": "Hydrogen",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafrSGEfB92LgHNHcJD02O29",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC23",
+      "sub": "C",
+      "name": "s-Block Elements",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadIk5zPjnR2XgZi2n_7_Qwo",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC24",
+      "sub": "C",
+      "name": "Liquid Solutions",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeFN4bIxWXLr-6FTbZqZNeO",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC25",
+      "sub": "C",
+      "name": "Hydrocarbons",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad1dbC1btiIdnTU0lfnYV1L",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC26",
+      "sub": "C",
+      "name": "Electrochemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeKHTVfY4er9dviHKS3gUzy",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC27",
+      "sub": "C",
+      "name": "Boron and Carbon Family Elements",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad_XS2fNetEPTFguJBVrXwd",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC28",
+      "sub": "C",
+      "name": "Chemical Kinetics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadkjXXk9EiOUrn1lGbBico_",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC29",
+      "sub": "C",
+      "name": "Aromatic Compounds",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafcoPui8OSj7I1NcanYLOZG",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC30",
+      "sub": "C",
+      "name": "p-Block Elements: Nitrogen and Oxygen Families",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadgDwH13M1jouR_8PEo24QG",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC31",
+      "sub": "C",
+      "name": "Solid State",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacfcfyAANNIQOuDqHUI5weL",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC32",
+      "sub": "C",
+      "name": "p-Block Elements: Groups 17 and 18",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacBob5iqWgldry3gKHEUipf",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC33",
+      "sub": "C",
+      "name": "Surface Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacJHCXkUt-73k--709WPvVs",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC34",
+      "sub": "C",
+      "name": "d- and f-Block Elements",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacxIWVbn6uUj1kTpdYo9nOa",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC35",
+      "sub": "C",
+      "name": "Carbonyl Compounds",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf1p-a4Sr47inlPd6HHDb60",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC36",
+      "sub": "C",
+      "name": "Coordination Compounds",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMac47LLQFY_RA4IHR4CUJl5I",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC37",
+      "sub": "C",
+      "name": "Carboxylic Acids and Their Derivatives",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafYSOfKgyE8Wl_uWzR2M_FU",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC38",
+      "sub": "C",
+      "name": "Metallurgy",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafI3Li4aCyQSa-HX6WMUlak",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC39",
+      "sub": "C",
+      "name": "Amines",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafkw_Mr6VzCzK2RQZindA3H",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC40",
+      "sub": "C",
+      "name": "Anion Analysis",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacB98GRxBk6Fs96_WwbyQdS",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC41",
+      "sub": "C",
+      "name": "Biomolecules",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae9BWZoNV9PZSGhv7uSIgvH",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC42",
+      "sub": "C",
+      "name": "Cation Analysis",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf1tQ9MqxPgXstm1k0E934E",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC43",
+      "sub": "C",
+      "name": "Structural Identification",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadwg0cUeLZORu6n-bVjVBBd",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC44",
+      "sub": "C",
+      "name": "Reduction, Oxidation and Hydrolysis",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae4Xd0YMGWEOLH0L6VgSuX5",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC45",
+      "sub": "C",
+      "name": "Environmental Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeB0QwGTmtO7A4afsbxgn8D",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC46",
+      "sub": "C",
+      "name": "Polymers",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadJl8y-zgo9Yen3aMzWo20b",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC47",
+      "sub": "C",
+      "name": "Chemistry in Everyday Life",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeB-L4cgWx3Z_OMYBUKqOFP",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC48",
+      "sub": "C",
+      "name": "Nuclear Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadFwfHLDsGFGynlaFhM7FJP",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLC49",
+      "sub": "C",
+      "name": "Miscellaneous Concepts in Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafY-zLtSFbj0MsVfI1cF174",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM01",
+      "sub": "M",
+      "name": "Basic Mathematics and Inequalities",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafig81EHnu345hUAHXOhe46",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM02",
+      "sub": "M",
+      "name": "Logarithms",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadF2rExT0C-TvtH2vn3dLGR",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM03",
+      "sub": "M",
+      "name": "Sets and Relations",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacrV8SEYwiGbrl6grKEISNc",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM04",
+      "sub": "M",
+      "name": "Mathematical Reasoning",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacsfE8rJJu5YRDrW19YbbAx",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM06",
+      "sub": "M",
+      "name": "Quadratic Equations and Expressions",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf5Ga3nQJe-gg-0zXG77YRB",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM05",
+      "sub": "M",
+      "name": "Functions",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad5zB0Dh6gUw1eYK8dN7hP7",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM07",
+      "sub": "M",
+      "name": "Number Theory",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeC1JQUXbAYMTKGu0DppkSz",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM08",
+      "sub": "M",
+      "name": "Trigonometric Functions",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafhPkzpa16mbUDqD8d7bBhL",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM09",
+      "sub": "M",
+      "name": "Trigonometric Equations",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafsM4VwfCbZ8Oa4i_96R09n",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM10",
+      "sub": "M",
+      "name": "Inverse Trigonometric Functions",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacqcUtkJPTPXSrvNm_5NK-v",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM11",
+      "sub": "M",
+      "name": "Solutions of Triangles",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaerL1K-p5sRRdzjNrqn72Rg",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM12",
+      "sub": "M",
+      "name": "Heights and Distances",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaedGbnmLZVKTkd6RS0X3XZB",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM13",
+      "sub": "M",
+      "name": "Principle of Mathematical Induction",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMad3oVwABWAwMOPxsQlIEz38",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM14",
+      "sub": "M",
+      "name": "Sequences and Series",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeu--QWWngkEI10RKOXf8TF",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM15",
+      "sub": "M",
+      "name": "Complex Numbers",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeLzehBWWVD_EZL7EuaVP-X",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM16",
+      "sub": "M",
+      "name": "Permutations and Combinations",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae1vVGOC3Ptr4qXYZOqXvJa",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM17",
+      "sub": "M",
+      "name": "Combinatorics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacMdMvJYgRkmXwmpeT2n_aE",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM18",
+      "sub": "M",
+      "name": "Binomial Theorem",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacSgRRlEkUB9v-gE1yxw_rG",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM19",
+      "sub": "M",
+      "name": "Matrices",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafsNaawDfrQl6EhgdEiWVD6",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM20",
+      "sub": "M",
+      "name": "Determinants",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaex9aIhynPtk3ZO-xO_G2kJ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM21",
+      "sub": "M",
+      "name": "Straight Lines",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf3M7rSq9M4NmLACdYuCQ_7",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM22",
+      "sub": "M",
+      "name": "Circles",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadiR6WFaUTQegpdKUJRD90D",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM23",
+      "sub": "M",
+      "name": "Parabola",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeT3qAAgcvUXiKnM044FO44",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM24",
+      "sub": "M",
+      "name": "Ellipse",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMae6_gCoLFltXl3bmtZmOvjQ",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM25",
+      "sub": "M",
+      "name": "Hyperbola",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeaLAU22ViTSvk3T7AWxnT_",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM26",
+      "sub": "M",
+      "name": "Limits",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaexM2nxZt512ESPt83EshJq",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM27",
+      "sub": "M",
+      "name": "Continuity",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMads1bsxLYBoJOLA3bWsY7mK",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM28",
+      "sub": "M",
+      "name": "Differentiability",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafj2vfy6rQHtTzgA_TnJsZ_",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM29",
+      "sub": "M",
+      "name": "Methods of Differentiation",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeewzwCJPpL65y1HV0VAiC4",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM30",
+      "sub": "M",
+      "name": "Applications of Derivatives",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacK_BU3vfAcCOuOJtQOHNfI",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM31",
+      "sub": "M",
+      "name": "Indefinite Integration",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMacK7OyqPwHe0rvG4KqxFIum",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM32",
+      "sub": "M",
+      "name": "Definite Integration",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafGD8xJhm9IioyF_norREYN",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM33",
+      "sub": "M",
+      "name": "Area Under the Curve",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf8TqINqRXRlWeuFgl6fBgf",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM34",
+      "sub": "M",
+      "name": "Differential Equations",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaeukUFW7G-KjoL-K2T3B3Mg",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM35",
+      "sub": "M",
+      "name": "Vector Algebra and Three-Dimensional Geometry",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafmea0RnicbuLD6Ly2EIr0X",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM36",
+      "sub": "M",
+      "name": "Statistics",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMadco0ISV4gL7BEkzs7ki6lm",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    },
+    {
+      "id": "PLM37",
+      "sub": "M",
+      "name": "Probability",
+      "url": "https://www.youtube.com/playlist?list=PL_A4M5IAkMaf-WePkSulK_zt0yfQUrZgE",
+      "playlistNotes": "",
+      "avgSeconds": null,
+      "totalSeconds": null,
+      "fetchedCount": 0,
+      "durationFetchedAt": null,
+      "lects": [
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        },
+        {
+          "d": null
+        }
+      ]
+    }
+  ],
+  "rev": {},
+  "focus": {},
+  "rlog": {},
+  "snz": {},
+  "tres": [],
+  "tplan": [],
+  "td": null
+}

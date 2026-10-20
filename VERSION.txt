@@ -1,0 +1,3 @@
+Jee OS
+Version 2.5.0
+Change: Continuous 6-hour PCM plan — Monday through Saturday, one uninterrupted daily block with 2 hours each for Physics, Chemistry and Maths. Morning/Night labels and old kickoff-date exceptions removed. Sunday test/rest system, curriculum, playlist links, revision cycles, calendar, local progress, optional Supabase sync and Android workflow retained.

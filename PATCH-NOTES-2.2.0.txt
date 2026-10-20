@@ -1,0 +1,26 @@
+Jee OS 2.2.0 — Sequential chapter scheduling
+
+Changed planner order:
+- Complete Physics chapter 1, then Chemistry chapter 1, then Maths chapter 1.
+- Continue Physics chapter 2, Chemistry chapter 2, Maths chapter 2, and repeat.
+- Finish the current chapter before scheduling the next chapter in the sequence.
+- Each study block is 3 hours and follows the current chapter sequence, rather than splitting every block into one-hour PCM slots.
+- Videos are estimated at 1.5x playback and scheduled whole; a video that does not fit carries to the next block. If a single video exceeds a block, it is kept whole and the block can overrun.
+
+One-time start schedule:
+- Saturday, 10 October 2026: Night block only.
+- Sunday, 11 October 2026: Morning and Night blocks.
+- All other Sundays remain protected rest/test days.
+
+Preserved from 2.1.2:
+- Duration metadata merges into saved chapters without overwriting user progress.
+- Existing 129-chapter curriculum, lesson counts, playlist URLs, notes, revisions, tests, settings, and local/cloud state are preserved.
+- APK workflow keeps Watch buttons in the planner and individual lecture rows.
+- APK chapter-link editing controls remain removed.
+- YouTube API key handling remains backend-only.
+
+Validation performed:
+- JavaScript syntax check passed.
+- ZIP integrity check passed.
+- Scheduler logic test confirmed chapter order, 10 Oct Night-only, 11 Oct both blocks, and other Sundays remain rest days.
+- No Android APK was built or installed during this patch.

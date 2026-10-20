@@ -1,0 +1,10 @@
+Jee OS 2.4.0 — PCM Hourly Blocks
+
+- Removed Notes Studio entirely. This build is the core JEE planner, not the notes prototype.
+- Each Morning block and each Night block is 3 hours: Physics 1 hour, Chemistry 1 hour, Maths 1 hour.
+- Each subject progresses through its chapters in the existing syllabus order.
+- Scheduling uses existing playlist average durations at 1.5× playback; whole videos only. If the next estimated video does not fit the remaining subject-hour, it carries to the next slot for that subject and unused minutes remain free.
+- Subject-specific queues keep the PCM hour allocations independent. The app does not pretend that playlist average durations are exact per-video durations.
+- Preserved the included 129-chapter / 2,725-lecture tracker dataset, playlist URLs, playlist-durations.json, Watch buttons, start.bat, revision cycles, calendar, tests, local-first progress, Supabase cloud sync and Android build workflow.
+- Special date rules retained: 10 Oct 2026 Night block only; 11 Oct 2026 both blocks and no tests. Other Sundays remain protected rest/test days.
+- Existing local progress is retained. Scheduler cache version is bumped so the new hourly allocation is rebuilt on launch.

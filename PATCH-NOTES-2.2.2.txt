@@ -1,0 +1,6 @@
+JEE OS 2.2.2 — Calendar Future-Only Fix
+
+- Calendar starts at the current month; earlier months are not shown.
+- Dates earlier than today in the current month are blank/hidden.
+- Today and future dates remain visible.
+- Future syllabus schedule, tests, revisions, Watch buttons, duration merge, and saved progress logic are otherwise unchanged.

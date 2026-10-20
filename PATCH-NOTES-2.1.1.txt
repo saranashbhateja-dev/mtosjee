@@ -1,0 +1,23 @@
+Jee OS 2.1.1 — Duration refresh persistence fix
+
+Fixed:
+- When the app loads a previously saved browser state, fresh avgSeconds, totalSeconds,
+  fetchedCount, and durationFetchedAt values from playlist-durations.json are now merged
+  into matching saved chapters.
+- The merge is metadata-only: lecture completion dates, chapter notes, custom chapter data,
+  revisions, test history, settings, and saved links are not replaced by source defaults.
+- Cached today's schedule is invalidated at startup so the planner recalculates using the
+  refreshed duration metadata.
+- New/empty local states are persisted after seeding or a duration refresh.
+
+Preserved:
+- 129 chapters and current lesson counts from the uploaded source.
+- Backend-only YouTube API key handling.
+- 1.5x estimated playback speed, six subject slots per study day, and whole-video scheduling.
+
+Known source-data issues not guessed or silently altered:
+- Physics chapter PLP26, “Conductors in Electrostatics,” has no valid playlist URL in the
+  supplied source, so its durations cannot be fetched until the correct URL is supplied.
+- PLP35 and PLC19 have tracker lesson counts that differ from listed YouTube playlist counts.
+- The planner uses each playlist's average video duration as an estimate for each lesson; it
+  does not have individual per-video durations in the current data format.

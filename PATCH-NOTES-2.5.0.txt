@@ -1,0 +1,8 @@
+Jee OS 2.5.0 — Continuous 6-Hour PCM Plan
+
+- Removed Morning and Night session labels from the planner and daily video list.
+- Replaced two 3-hour blocks with one continuous 6-hour study block Monday through Saturday.
+- Allocated up to 2 hours each to Physics, Chemistry and Maths, preserving each subject’s chapter order.
+- Sundays remain protected for the existing test/rest system; removed historical kickoff-date exceptions.
+- Kept whole-video scheduling, 1.5x duration estimates, revision cycles, tests, curriculum, progress, cloud sync and Android workflow.
+- Bumped scheduler version so today’s cached plan is regenerated using the new allocation.
